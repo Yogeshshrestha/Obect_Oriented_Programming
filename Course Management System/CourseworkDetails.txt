@@ -1,0 +1,21 @@
+In this project java core and oob languaged is used, concept of Java swing is used,  databae mysql is used and IDE intellj is used.
+To run this project Intellj or ecplise and wampserver should me installed.
+This project shows the system of clz or university.
+Blackboard-Lite (3 Menubar for each  user)
+
+Course Administrator: 
+login page
+AddCourse
+CourseDetails
+EnterStudentMarks
+
+Student:
+login
+Course Enroll
+Course Enrolled Details
+Course Structure
+
+Instructor:
+login
+UpdateStudent
+ResultDetails
